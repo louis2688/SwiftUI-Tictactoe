@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D7EA5F9A2A2A746B00D64DBE /* Alerts.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7EA5F992A2A746B00D64DBE /* Alerts.swift */; };
 		D7F0FE7D2A056625004008DA /* SwiftUI_TictactoeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7F0FE7C2A056625004008DA /* SwiftUI_TictactoeApp.swift */; };
 		D7F0FE7F2A056625004008DA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7F0FE7E2A056625004008DA /* ContentView.swift */; };
 		D7F0FE812A05662B004008DA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7F0FE802A05662B004008DA /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D7EA5F992A2A746B00D64DBE /* Alerts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alerts.swift; sourceTree = "<group>"; };
 		D7F0FE792A056625004008DA /* SwiftUI-Tictactoe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Tictactoe.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7F0FE7C2A056625004008DA /* SwiftUI_TictactoeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_TictactoeApp.swift; sourceTree = "<group>"; };
 		D7F0FE7E2A056625004008DA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				D7F0FE7C2A056625004008DA /* SwiftUI_TictactoeApp.swift */,
 				D7F0FE7E2A056625004008DA /* ContentView.swift */,
+				D7EA5F992A2A746B00D64DBE /* Alerts.swift */,
 				D7F0FE802A05662B004008DA /* Assets.xcassets */,
 				D7F0FE822A05662B004008DA /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D7F0FE7F2A056625004008DA /* ContentView.swift in Sources */,
+				D7EA5F9A2A2A746B00D64DBE /* Alerts.swift in Sources */,
 				D7F0FE7D2A056625004008DA /* SwiftUI_TictactoeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
